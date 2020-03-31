@@ -1,0 +1,76 @@
+C:\Users\hp\source\repos\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.deps.json
+C:\Users\hp\source\repos\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.runtimeconfig.json
+C:\Users\hp\source\repos\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.dll
+C:\Users\hp\source\repos\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.pdb
+C:\Users\hp\source\repos\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.Views.dll
+C:\Users\hp\source\repos\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.Views.pdb
+C:\Users\hp\source\repos\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.BusinessLayer.dll
+C:\Users\hp\source\repos\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.DataLayer.dll
+C:\Users\hp\source\repos\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.Entities.dll
+C:\Users\hp\source\repos\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.BusinessLayer.pdb
+C:\Users\hp\source\repos\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.DataLayer.pdb
+C:\Users\hp\source\repos\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.Entities.pdb
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.AssemblyInfo.cs
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.TagHelpers.input.cache
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.TagHelpers.output.cache
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.RazorCoreGenerate.cache
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.RazorTargetAssemblyInfo.cache
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.RazorTargetAssemblyInfo.cs
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.Views.pdb
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.csproj.CopyComplete
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.dll
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.pdb
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\User\AllUsers.g.cshtml.cs
+C:\Users\hp\source\repos\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\User\Register.g.cshtml.cs
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.deps.json
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.runtimeconfig.json
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.runtimeconfig.dev.json
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.dll
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.pdb
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.Views.dll
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.Views.pdb
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.BusinessLayer.dll
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.DataLayer.dll
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.Entities.dll
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.BusinessLayer.pdb
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.DataLayer.pdb
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\bin\Debug\netcoreapp2.2\Pixogram.Entities.pdb
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.AssemblyInfo.cs
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.TagHelpers.input.cache
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.TagHelpers.output.cache
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.RazorCoreGenerate.cache
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\User\AllUsers.g.cshtml.cs
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\User\Register.g.cshtml.cs
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.Views.pdb
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.csproj.CopyComplete
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.dll
+C:\Users\hp\Desktop\31-05-2020\Code Praful\Pixogram\Pixogram\obj\Debug\netcoreapp2.2\Pixogram.pdb
